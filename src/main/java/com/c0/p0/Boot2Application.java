@@ -1,4 +1,4 @@
-package com.c0.p0;
+package com.c0.p0; 
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
